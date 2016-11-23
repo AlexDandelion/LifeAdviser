@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@mipmap/thoughts88"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts86"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts84"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts82"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts80"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts78"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts76"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts74"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts72"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts70"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts68"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts66"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts64"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts62"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts60"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts58"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts56"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts54"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts52"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts50"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts48"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts46"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts44"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts42"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts40"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts38"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts36"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts34"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts32"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts30"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts28"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts26"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts24"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts22"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts20"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts18"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts16"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts14"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts12"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts10"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts9"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts8"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts7"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts6"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts5"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts4"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts3"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts2"
+        android:duration="40" />
+    <item
+        android:drawable="@mipmap/thoughts1"
+        android:duration="40" />
+</animation-list>

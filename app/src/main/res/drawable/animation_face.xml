@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@mipmap/face137"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face136"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face135"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face133"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face130"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face128"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face125"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face123"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face120"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face118"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face115"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face113"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face110"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face108"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face105"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face103"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face100"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face98"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face95"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face93"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face90"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face88"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face85"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face83"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face80"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face23"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face20"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face18"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face15"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face13"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face10"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face8"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face5"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face4"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face3"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face2"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/face1"
+        android:duration="100" />
+</animation-list>

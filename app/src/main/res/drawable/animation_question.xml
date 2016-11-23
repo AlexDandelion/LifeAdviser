@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<animation-list xmlns:android="http://schemas.android.com/apk/res/android"
+    android:oneshot="true">
+
+    <item
+        android:drawable="@mipmap/question60"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question58"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question56"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question54"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question52"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question50"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question48"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question46"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question44"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question42"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question40"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question38"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question36"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question34"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question32"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question30"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question28"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question26"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question24"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question22"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question20"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question18"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question16"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question14"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question12"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question10"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question8"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question6"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question5"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question4"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question3"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question2"
+        android:duration="100" />
+    <item
+        android:drawable="@mipmap/question1"
+        android:duration="100" />
+</animation-list>

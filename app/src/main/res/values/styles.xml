@@ -1,0 +1,96 @@
+<resources>
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="InteractiveImageView">
+        <item name="android:layout_width">@dimen/interactive_image_view_space</item>
+        <item name="android:layout_height">@dimen/interactive_image_view_space</item>
+        <item name="android:layout_margin">@dimen/interactive_image_view_margin</item>
+        <item name="android:onClick">onClickFragments</item>
+    </style>
+
+    <style name="InteractiveReturnImageView" parent="InteractiveImageView">
+        <item name="android:layout_alignParentBottom">true</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:src">@drawable/return_button</item>
+    </style>
+
+    <style name="NewVerticalTextView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_centerVertical">true</item>
+        <item name="android:clickable">true</item>
+        <item name="android:gravity">bottom|right</item>
+        <item name="android:onClick">onClickFragments</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="AdviceHeaderTextView">
+        <item name="android:layout_width">@dimen/advice_header_text_view_width</item>
+        <item name="android:layout_height">@dimen/advice_header_text_view_height</item>
+        <item name="android:layout_alignParentTop">true</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">@dimen/advice_header_text_view_margin</item>
+        <item name="android:background">@drawable/text_background_blue</item>
+        <item name="android:gravity">center</item>
+        <item name="android:textColor">@color/colorWhite</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="SmallCirclesImageView">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_alignParentLeft">true</item>
+        <item name="android:layout_margin">@dimen/interactive_image_view_margin</item>
+        <item name="android:src">@drawable/circles</item>
+    </style>
+
+    <style name="LightLampImageView">
+        <item name="android:layout_width">@dimen/lamp_image_view_space</item>
+        <item name="android:layout_height">@dimen/lamp_image_view_space</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_marginTop">@dimen/lamp_image_view_margin_top</item>
+        <item name="android:src">@drawable/lamp</item>
+    </style>
+
+    <style name="StarImageView">
+        <item name="android:layout_width">@dimen/star_image_view_space</item>
+        <item name="android:layout_height">@dimen/star_image_view_space</item>
+        <item name="android:layout_alignParentRight">true</item>
+        <item name="android:layout_margin">@dimen/star_image_view_margin</item>
+    </style>
+
+    <style name="LargeMainFragmentButton">
+        <item name="android:layout_width">wrap_content</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_toLeftOf">@+id/settingsImageView</item>
+        <item name="android:layout_toRightOf">@+id/infoImageView</item>
+        <item name="android:background">@drawable/text_background_white</item>
+        <item name="android:clickable">false</item>
+        <item name="android:textAllCaps">false</item>
+        <item name="android:textColor">@color/colorAshen</item>
+        <item name="android:textSize">@dimen/text_size_large</item>
+    </style>
+
+    <style name="CircleImageView">
+        <item name="android:layout_width">@dimen/circle_image_view_space</item>
+        <item name="android:layout_height">@dimen/circle_image_view_space</item>
+        <item name="android:layout_above">@+id/knockButton</item>
+        <item name="android:layout_centerHorizontal">true</item>
+        <item name="android:layout_centerVertical">true</item>
+    </style>
+
+</resources>

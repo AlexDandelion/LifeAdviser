@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <ListPreference
+        android:entries="@array/entries_languages"
+        android:entryValues="@array/entries_values_languages"
+        android:key="preference_language"
+        android:title="@string/language" />
+    <EditTextPreference
+        android:inputType="date"
+        android:key="preference_date_of_birth"
+        android:title="@string/date_of_birth" />
+    <SwitchPreference
+        android:defaultValue="true"
+        android:key="preference_day_advice"
+        android:title="@string/use_the_tip_of_the_day" />
+</PreferenceScreen>

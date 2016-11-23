@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/adviceReloadedFragmentRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/infoImageView"
+        style="@style/InteractiveImageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/info" />
+
+    <ImageView
+        android:id="@+id/settingsImageView"
+        style="@style/InteractiveImageView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/settings" />
+
+    <ImageView
+        android:id="@+id/quickTipImageView"
+        style="@style/InteractiveImageView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/lamp_quick_tip" />
+
+    <com.dandelion.lifeadviser.VerticalTextView
+        android:id="@+id/favoriteTextView"
+        style="@style/NewVerticalTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/favorite" />
+
+    <com.dandelion.lifeadviser.VerticalTextView
+        android:id="@+id/dayAdviceHeaderTextView"
+        style="@style/NewVerticalTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/tip_of_the_day" />
+
+    <ImageView
+        android:id="@+id/adviceLoadingImage"
+        android:layout_width="@dimen/advice_loading_image_view_width"
+        android:layout_height="@dimen/advice_loading_image_view_height"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <TextView
+        android:id="@+id/tipAvailableTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/quickTipImageView"
+        android:layout_centerHorizontal="true"
+        android:text="@string/tips_are_not_available" />
+
+</RelativeLayout>

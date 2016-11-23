@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/mainFragmentRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/infoImageView"
+        style="@style/InteractiveImageView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:src="@drawable/info" />
+
+    <ImageView
+        android:id="@+id/settingsImageView"
+        style="@style/InteractiveImageView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/settings" />
+
+    <ImageView
+        android:id="@+id/quickTipImageView"
+        style="@style/InteractiveImageView"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:src="@drawable/lamp_quick_tip" />
+
+    <com.dandelion.lifeadviser.VerticalTextView
+        android:id="@+id/favoriteTextView"
+        style="@style/NewVerticalTextView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:text="@string/favorite" />
+
+    <com.dandelion.lifeadviser.VerticalTextView
+        android:id="@+id/dayAdviceHeaderTextView"
+        style="@style/NewVerticalTextView"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="@string/tip_of_the_day" />
+
+    <Button
+        android:id="@+id/makeQuestionMainButton"
+        style="@style/LargeMainFragmentButton"
+        android:layout_below="@+id/infoImageView"
+        android:text="@string/make_a_question" />
+
+    <Button
+        android:id="@+id/knockButton"
+        style="@style/LargeMainFragmentButton"
+        android:layout_above="@+id/quickTipImageView"
+        android:text="@string/knock" />
+
+    <ImageView
+        android:id="@+id/owlImageView"
+        android:layout_width="@dimen/owl_image_view_space"
+        android:layout_height="@dimen/owl_image_view_space"
+        android:layout_above="@+id/knockButton"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <ImageView
+        android:id="@+id/faceImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/knockButton"
+        android:layout_alignEnd="@+id/makeQuestionMainButton"
+        android:layout_alignLeft="@+id/makeQuestionMainButton"
+        android:layout_alignRight="@+id/makeQuestionMainButton"
+        android:layout_alignStart="@+id/makeQuestionMainButton"
+        android:layout_below="@+id/makeQuestionMainButton"
+        android:layout_marginBottom="@dimen/face_image_view_margin_bottom"
+        android:layout_marginLeft="@dimen/face_image_view_margin_left"
+        android:layout_marginRight="@dimen/face_image_view_margin_right"
+        android:layout_marginTop="@dimen/face_image_view_margin_top" />
+
+    <ImageView
+        android:id="@+id/circleImageView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@+id/dayAdviceHeaderTextView"
+        android:layout_alignTop="@+id/makeQuestionMainButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/circle_image_view_margin_top"
+        android:src="@drawable/circle" />
+
+    <ImageView
+        android:id="@+id/questionImageView"
+        android:layout_width="@dimen/question_image_view_width"
+        android:layout_height="@dimen/question_image_view_height"
+        android:layout_above="@+id/favoriteTextView"
+        android:layout_toLeftOf="@+id/dayAdviceHeaderTextView"
+        android:layout_toStartOf="@+id/dayAdviceHeaderTextView" />
+
+    <ImageView
+        android:id="@+id/thoughtsImageView"
+        android:layout_width="@dimen/thoughts_image_view_space"
+        android:layout_height="@dimen/thoughts_image_view_space"
+        android:layout_alignBottom="@+id/questionImageView"
+        android:layout_toLeftOf="@+id/questionImageView"
+        android:layout_toStartOf="@+id/questionImageView" />
+
+    <ImageView
+        android:id="@+id/whiteCircleImageView"
+        style="@style/CircleImageView"
+        android:src="@drawable/white_circle" />
+
+    <ImageView
+        android:id="@+id/redCircleImageView"
+        style="@style/CircleImageView"
+        android:src="@drawable/red_circle" />
+
+    <TextView
+        android:id="@+id/toGetAdviceTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/knockButton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="@dimen/get_advice_text_view_margin"
+        android:text="@string/to_get_advice"
+        android:textColor="@color/colorWhite"
+        android:textSize="@dimen/text_size_large" />
+
+</RelativeLayout>

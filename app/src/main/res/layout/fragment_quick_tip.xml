@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/startButton"
+        style="@style/InteractiveReturnImageView" />
+
+    <TextView
+        android:id="@+id/quickTipTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="@dimen/quick_tip_text_view_margin_top"
+        android:text="@string/quick_tip"
+        android:textColor="@color/colorText"
+        android:textSize="@dimen/text_size_giant" />
+
+    <ImageView
+        android:id="@+id/quickTipImageViewAnswer"
+        android:layout_width="@dimen/quick_tip_image_view_answer_space"
+        android:layout_height="@dimen/quick_tip_image_view_answer_space"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true" />
+
+    <Button
+        android:id="@+id/makeQuestionButton"
+        android:layout_width="@dimen/info_button_width"
+        android:layout_height="@dimen/info_button_height"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:background="@drawable/text_background_white"
+        android:text="@string/make_a_question"
+        android:textAllCaps="false"
+        android:textColor="@color/colorText"
+        android:textSize="@dimen/text_size_middle" />
+
+</RelativeLayout>

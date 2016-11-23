@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="personal_adviser">персональний радник</string>
+    <string name="favorite">Вибране</string>
+    <string name="start">Приступити</string>
+    <string name="how_it_works">Як це працює?</string>
+    <string name="settings">Налаштування</string>
+    <string name="tip_of_the_day">Порада дня</string>
+    <string name="quick_tip">Швидка порада</string>
+    <string name="use_the_tip_of_the_day">Порада дня</string>
+    <string name="date_of_birth">Дата народження</string>
+    <string name="language">Мова інтерфейсу</string>
+    <string name="make_a_question">Задумай питання</string>
+    <string name="english">Англійська</string>
+    <string name="ukrainian">Українська</string>
+    <string name="russian">Російська</string>
+    <string name="knock">Постукай</string>
+    <string name="tip">Порада</string>
+    <string name="to_get_advice">Щоб отримати\nпораду</string>
+    <string name="tips_are_not_available">Поради не доступні, ви можете\nскористатися швидкою порадою.</string>
+</resources>

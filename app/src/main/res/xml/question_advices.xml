@@ -1,0 +1,3153 @@
+<?xml version="1.0" encoding="utf-8"?>
+<advices>
+    <en>
+        <dict>
+            <key>avtor</key>
+            <string>A Few Good Men</string>
+            <key>advise</key>
+            <string>You can’t handle the truth!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Albus Dumbledore</string>
+            <key>advise</key>
+            <string>We must all face the choice between what is right and what is easy</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Albus Dumbledore</string>
+            <key>advise</key>
+            <string>The more you care, the more you have to lose</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Apollo 13</string>
+            <key>advise</key>
+            <string>Houston, we have a problem.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Billings</string>
+            <key>advise</key>
+            <string>Every man desires to live long, but no man would be old.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Braveheart</string>
+            <key>advise</key>
+            <string>They may take our lives, but they will never take… our FREEDOM!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Casablanca</string>
+            <key>advise</key>
+            <string>I think this is the beginning of a beautiful friendship.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Dirty Dancing</string>
+            <key>advise</key>
+            <string>Nobody puts Baby in a corner.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Forrest Gump</string>
+            <key>advise</key>
+            <string>My mama always said, life was like a box of chocolates. You never know what you gonna get.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Gone with the Wind</string>
+            <key>advise</key>
+            <string>Frankly, my dear, I don’t give a damn.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Star Wars</string>
+            <key>advise</key>
+            <string>May the force be with you.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Sudden Impact</string>
+            <key>advise</key>
+            <string>Go ahead. Make my day.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Dark Knight</string>
+            <key>advise</key>
+            <string>Why so serious?</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Hobbit: An Unexpected Journey</string>
+            <key>advise</key>
+            <string>All good stories deserve embellishment</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Hobbit: An Unexpected Journey</string>
+            <key>advise</key>
+            <string>Home is now behind you. The world is ahead.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Lord of the Ring</string>
+            <key>advise</key>
+            <string>You Shall Not Pass!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Matrix</string>
+            <key>advise</key>
+            <string>Time is always against us</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Matrix</string>
+            <key>advise</key>
+            <string>Free your mind.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Matrix</string>
+            <key>advise</key>
+            <string>There’s a difference between knowing the path and walking the path.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Wizard of Oz</string>
+            <key>advise</key>
+            <string>I’ve got a feeling we’re not in Kansas anymore.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>The Wizard of Oz</string>
+            <key>advise</key>
+            <string>There’s no place like home.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Well, nobody's perfect</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Art Linkletter</string>
+            <key>advise</key>
+            <string>If anything is worth trying at all, it’s worth trying at least 10 times.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Sigmund Freud</string>
+            <key>advise</key>
+            <string>Being entirely honest with oneself is a good exercise.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Brian Tracy</string>
+            <key>advise</key>
+            <string>The great Breakthrough in your life comes when you realize it that you can learn anything you need to learn to accomplish any goal that you set for yourself.This means there are no limits on what you can be, have or do.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Murphy's law</string>
+            <key>advise</key>
+            <string>Every solution breeds new problems.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Plato</string>
+            <key>advise</key>
+            <string>Every king springs from a race of slaves, and every slave had kings among his ancestors</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Seneca</string>
+            <key>advise</key>
+            <string>The greatest remedy for anger is delay.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Webster</string>
+            <key>advise</key>
+            <string>Keep cool; anger is not an argument.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Eliot</string>
+            <key>advise</key>
+            <string>Nothing is as good as it seems beforehand.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Disraeli</string>
+            <key>advise</key>
+            <string>What we anticipate seldom occurs, what we least expected generally happens.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Cowley</string>
+            <key>advise</key>
+            <string>Poverty wants some things, luxury many, avarice all things.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Horace</string>
+            <key>advise</key>
+            <string>Nothing is beautiful from every point of view.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Montaigne</string>
+            <key>advise</key>
+            <string>Nothing is so firmly believed as what we least know.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>France</string>
+            <key>advise</key>
+            <string>It is human nature to think wisely and to act foolishly.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Fromm</string>
+            <key>advise</key>
+            <string>Not he who has much is rich, but he who gives much.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Beecher</string>
+            <key>advise</key>
+            <string>Every charitable act is a stepping stone towards heaven.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Erasmus</string>
+            <key>advise</key>
+            <string>In the country of the blind the one-eyed man is king.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Swift</string>
+            <key>advise</key>
+            <string>There's none so blind as they that wont see.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Dryden</string>
+            <key>advise</key>
+            <string>Fortune befriends the bold.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Smollett</string>
+            <key>advise</key>
+            <string>Who bravely dares must sometimes risk a fall.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Rogers</string>
+            <key>advise</key>
+            <string>We cant all be heroes because someone has to sit on the curb and clap as they go by.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Pliny the Elder</string>
+            <key>advise</key>
+            <string>In these matters the only certainty is that there is nothing certain.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>All change is not growth; all movement is not forward.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Thoreau</string>
+            <key>advise</key>
+            <string>Things do not change, we do.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Galsworthy</string>
+            <key>advise</key>
+            <string>There is nothing more tragic in life than the utter impossibility of changing what you have done.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Bacon</string>
+            <key>advise</key>
+            <string>Не that will not apply new remedies must expect new evils.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Keller</string>
+            <key>advise</key>
+            <string>Keep yourself to the sunshine and you cannot see the shadow.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Holland</string>
+            <key>advise</key>
+            <string>Joys divided are increased.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Pindar</string>
+            <key>advise</key>
+            <string>The best healer is good cheer.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Johnson, Samuel</string>
+            <key>advise</key>
+            <string>Life cannot subsist in society but by reciprocal concessions.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Franklin</string>
+            <key>advise</key>
+            <string>The discontented man finds no easy chair.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Goethe</string>
+            <key>advise</key>
+            <string>The coward threatens when he is safe.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Shaw</string>
+            <key>advise</key>
+            <string>In this world there is always danger for those who are afraid of it.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>George</string>
+            <key>advise</key>
+            <string>The most dangerous thing in the world is to try to leap a chasm in two jumps.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Nehru</string>
+            <key>advise</key>
+            <string>The person who runs away exposes himself to that very danger more than a person who sits quietly.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Shakespeare</string>
+            <key>advise</key>
+            <string>Cowards die many times before their deaths.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>La Rochefoucauld</string>
+            <key>advise</key>
+            <string>The sure way to be cheated is to think ones self more cunning than others.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Anonymous</string>
+            <key>advise</key>
+            <string>The first and the worst of all frauds is to cheat oneself.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>James</string>
+            <key>advise</key>
+            <string>There is no worse lie than a truth misunderstood by those who hear it.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Phillips</string>
+            <key>advise</key>
+            <string>What is defeat? Nothing but education, nothing but the first step to something better.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Spinoza</string>
+            <key>advise</key>
+            <string>Desire is the essence of a man.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>La Rochefoucauld</string>
+            <key>advise</key>
+            <string>Our desires always disappoint us; for though we meet with something that gives us satisfaction, yet it never thoroughly answers our expectation.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Montaigne</string>
+            <key>advise</key>
+            <string>There are some defeats more triumphant than victories.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Shaw</string>
+            <key>advise</key>
+            <string>There are two tragedies in life. One is not get your hearts desire. The other is to get it.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>La Rochefoucauld</string>
+            <key>advise</key>
+            <string>If we resist our passions, it is more through their weakness than from our strength.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Churchill</string>
+            <key>advise</key>
+            <string>We have a lot of anxieties, and one cancels out another very often.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>La Rochefoucauld</string>
+            <key>advise</key>
+            <string>Nothing so much prevents our being natural as the desire of appearing so.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Goethe</string>
+            <key>advise</key>
+            <string>In all things it is better to hope than to despair.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Goethe</string>
+            <key>advise</key>
+            <string>The greatest difficulties lie where we are not looking for them.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Channing</string>
+            <key>advise</key>
+            <string>Difficulties are meant to rouse, not to discourage.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Seneca</string>
+            <key>advise</key>
+            <string>Difficulties strengthen the mind, as labour does the body.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Kipling</string>
+            <key>advise</key>
+            <string>Borrow trouble for yourself, if that's your nature, but dont lend it to your neighbours.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Santayana</string>
+            <key>advise</key>
+            <string>The Difficult is that which can be done immediately; the Impossible that which takes a little longer.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Napoleon</string>
+            <key>advise</key>
+            <string>Impossibility: a word only to be found in the dictionary of fools.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Scott</string>
+            <key>advise</key>
+            <string>To the timid and hesitating everything is impossible because it seems so.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Goddard</string>
+            <key>advise</key>
+            <string>It is difficult to say what is impossible, for the dream of yesterday is the hope of today and the reality of tomorrow.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Behrman</string>
+            <key>advise</key>
+            <string>А wonderful discovery – psychoanalysis. Makes quite simple people feel they are complex.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Holmes</string>
+            <key>advise</key>
+            <string>То have doubted ones own first principles, is the mark of a civilized man.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Franklin</string>
+            <key>advise</key>
+            <string>The cat in gloves catches no mice.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Emerson</string>
+            <key>advise</key>
+            <string>Nothing great was ever achieved without enthusiasm.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Longfellow</string>
+            <key>advise</key>
+            <string>The world loves a spice of wickedness.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Mill</string>
+            <key>advise</key>
+            <string>A person may cause evil to others not only by his actions but by his inaction.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Koestler</string>
+            <key>advise</key>
+            <string>Nothing is more sad than the death of an illusion.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Conrad</string>
+            <key>advise</key>
+            <string>It is a mark of an inexperienced man not to believe in luck.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Nehru</string>
+            <key>advise</key>
+            <string>Facts are facts and will not disappear on account of your likes.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Hubbard, Kin</string>
+            <key>advise</key>
+            <string>Lots of folks confuse bad management with destiny.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Franklin</string>
+            <key>advise</key>
+            <string>He that waits upon fortune, is never sure of a dinner.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Lowell</string>
+            <key>advise</key>
+            <string>There is no good arguing with the inevitable.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Plutarch</string>
+            <key>advise</key>
+            <string>To find the fault is easy; to do better may be difficult</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Dekker</string>
+            <key>advise</key>
+            <string>A mask of gold hides all deformities.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Roosevelt, Eleonor</string>
+            <key>advise</key>
+            <string>You can face whatever has to be faced if you master your own fears and simply go on.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Shiller</string>
+            <key>advise</key>
+            <string>Keep true to the dreams of thy youth.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Homer Jay Simpson</string>
+            <key>advise</key>
+            <string>Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Homer Jay Simpson</string>
+            <key>advise</key>
+            <string>Just pick a dead end and chill out till you die.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Homer Jay Simpson</string>
+            <key>advise</key>
+            <string>When will I learn? The answer to life's problems aren't at the bottom of a bottle, they're on TV!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Homer Jay Simpson</string>
+            <key>advise</key>
+            <string>All my life I've had one dream, to achieve my many goals.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Cicero</string>
+            <key>advise</key>
+            <string>There is no place more delightful than home.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Baldwin</string>
+            <key>advise</key>
+            <string>The attainment of an ideal is often the beginning of a disillusion.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Soviet film Afonya</string>
+            <key>advise</key>
+            <string>Make yourself at home! Do not forget that you are at a party!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"The Diamond Arm"</string>
+            <key>advise</key>
+            <string>The words of one of my friend ... a dead man ... 'I knew too much'</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"The Diamond Arm"</string>
+            <key>advise</key>
+            <string>Prey does not fly, it is fried!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"The Diamond Arm"</string>
+            <key>advise</key>
+            <string>even ulcer and abstainers drink when somebody pays.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"The Diamond Arm"</string>
+            <key>advise</key>
+            <string>Even ulcer and abstainers drink when somebody pays.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"12 chairs"</string>
+            <key>advise</key>
+            <string>The agreement is a product with full resist sides.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"12 chairs"</string>
+            <key>advise</key>
+            <string>Do not make cult out of food</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Carnival Night"</string>
+            <key>advise</key>
+            <string>We see one star, two stars ... It is better, of course, five-star!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"The Diamond Arm"</string>
+            <key>advise</key>
+            <string>Strike iron without walking away from the cash register.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"12 chairs"</string>
+            <key>advise</key>
+            <string>We are strangers at this celebration of life</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Gentlemen of Fortune"</string>
+            <key>advise</key>
+            <string>It is the end.. Movies will not ... Electricity overs.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Gentlemen of Fortune"</string>
+            <key>advise</key>
+            <string>This is not a stealing petty cash from pockets..</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Assa"</string>
+            <key>advise</key>
+            <string>Wildness. As, however, like any compromise.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Assa"</string>
+            <key>advise</key>
+            <string>Today he will sign anything that we want. And tomorrow we will hang in the loops.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Office Romance"</string>
+            <key>advise</key>
+            <string>It is known that work refines human. That's why people go to work with pleasure.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Office Romance"</string>
+            <key>advise</key>
+            <string>It is known the Earth is twirled by optimists.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Office Romance"</string>
+            <key>advise</key>
+            <string>New head begins to repair his own office.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Magicians"</string>
+            <key>advise</key>
+            <string>The main thing is the suit will fit!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>"Magicians"</string>
+            <key>advise</key>
+            <string>Unfortunately, idiots is more stupid in life than in the fairy tales.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>You must live so that you are remembered by bastards.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>It is very hard to be a genius among snot.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>When Grasshopper's legs hurt, she jumps sitting.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>sometimes we find such a love,that it is better to replace it immediately shot.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>Beautiful people shit too.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>It is better to be a good person, who uses foul language than the quiet-mannered creature.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>The worst thing is when a person hasn't belong to herselff, but person belongs to her decay.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Faina Ranevskaya</string>
+            <key>advise</key>
+            <string>Among all snot it is very difficult to achieve the level of genius.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Maybe not now, but in the future.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>I see a purpose, but I do not see obstacles</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Just not today!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>It is today!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>It is great time!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>May you do that easier?</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Stronger pressure, and do not pay attention to anything ...</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>It may be the last chance</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Use all opportunities.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>You have used an attempt. Try it the next time</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Stand in line. Patience will be a lesson.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>It is not a fairy tale. Miracles have to make yourself.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Learn to accept the reality as it is.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Smile, people like it.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>No one has chance to stop you.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Fear sobers</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Fear must not be an obstacle.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>We were created to do.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Life is short, you should do a lot.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>You shouldn't shit in your own home.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Life has been given to overcome obstacles.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Nobody can prohibit you.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>This is your way, so go easy on him</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Be calm! Everything will turn out.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>nobody will stop you.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Hooray, finally the time has come.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Avoid rash acts!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Of course not.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Go to sleep! Things will take a turn for the better.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>An hour in the morning is worth two in the evening.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>By no means do not do it!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Get on with it!  </string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Bad is called good when worse happens</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Sometimes even a simple change of conditions will help to reconfigure ordinary cycle of thoughts.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>The past is just a story which we remind ourselves from time to time</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Make new friends. The positive effect which people can exert at each other is invaluable</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Changes from inside are changes from outside. New hair color, hairstyle, make-up will not only help to transform, but also to reflect on the new facets of your personality. And now is the right time.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Far not all that  happens to us, brings a secret meaning or lesson. If your back memories of the past hold you and do not let you go, allow yourself to let go and forget all the pain.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Look for a suitable company among those who understand what it's worth to you. Read their stories, listen to the conclusions that they have learned and use them as a reminder that you are not alone.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Do not be lazy and engage big general cleaning. Ruthlessly, get rid of all that you do not use and put things properly there, where you haven't looked for ages. Even the thoughts are arranged logically, when the house is clean, bright and tidy</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>A friend in need is a friend indeed. Everybody knows about this. Those people who do not leave you in a difficult period of life, offered a helping hand and stayed with you, - do not forget about these people and appreciate them.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>New knowledge expand our opportunities. If you increase your horizons, you remind yourself that there's always something to learn. And who knows - maybe you will discover a new talent.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>It is difficult to keep life under control, if you cannot do it even with finance. Rethink your habits, make a budget - balanced expenses will add a bit of confidence and stability in your life.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Perhaps the most important step towards the restoration of control over your life will be a decision to walk away by a situation that holds you back. You need courage to leave behind something what once occupied an important place in your life. But this act will provide an incredible opportunity to start something new.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Limit your contact with disagreeable people!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>We urgently need to give up one bad habit for 100 days.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Overcoming own fears adds confidence as anything. Make conscious challenge to what scares you for a long time - although with time it may seem ridiculous. This small victory will inspire you much more than you can imagine</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Forgive others. Forgive the universe. Forgive yourself!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Author unknown</string>
+            <key>advise</key>
+            <string>Do not attempt to do a thing unless you are sure of yourself; but do not relinquish it simply because someone else is not sure of you.</string>
+        </dict>
+    </en>
+    <ru>
+        <dict>
+            <key>avtor</key>
+            <string>A Few Good Men</string>
+            <key>advise</key>
+            <string>Правда тебе не по зубам!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>профессор Дамблдор</string>
+            <key>advise</key>
+            <string>Мы все должны встать перед выбором между правильным и легким</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>профессор Дамблдор</string>
+            <key>advise</key>
+            <string>Чем большее тебе дорого, тем больше ты можешь потерять.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Аполо 13</string>
+            <key>advise</key>
+            <string>Хьюстон, у нас проблема.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Биллингс</string>
+            <key>advise</key>
+            <string>Каждый хочет жить долго, но никто не хочет стареть.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Храброе сердце</string>
+            <key>advise</key>
+            <string>Они могут отнять у нас жизнь, но они никогда не отнимут у нас… СВОБОДУ!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Касабланка</string>
+            <key>advise</key>
+            <string>Я думаю, что это начало красивой дружбы</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Грязные танцы</string>
+            <key>advise</key>
+            <string>Никто не ставит ребенка в угол</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Форрест Гамп</string>
+            <key>advise</key>
+            <string>Моя мама всегда говорила, что жизнь как коробка конфет. Никогда не знаешь, какую получишь.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Унесенные ветром</string>
+            <key>advise</key>
+            <string>Если честно, дорогая, мне наплевать</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Звездные войны</string>
+            <key>advise</key>
+            <string>Да пребудет с тобой Сила.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Внезапный удар</string>
+            <key>advise</key>
+            <string>Давай, сделай мой день</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Темный рыцарь</string>
+            <key>advise</key>
+            <string>Чё так серьезно?</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хоббит: Нежданное путешествие</string>
+            <key>advise</key>
+            <string>Всякую хорошую историю не грех и приукрасить.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хоббит: Нежданное путешествие</string>
+            <key>advise</key>
+            <string>Дом теперь позади тебя. Мир – впереди.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Ты не пройдешь!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Матрица</string>
+            <key>advise</key>
+            <string>Время всегда против нас.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Матрица</string>
+            <key>advise</key>
+            <string>Освободи свой разум</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Матрица</string>
+            <key>advise</key>
+            <string>Знать путь и идти по нему — не одно и то же.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Волшебник страны Оз</string>
+            <key>advise</key>
+            <string>У меня такое чувство, что мы уже не в Канзасе</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Волшебник страны Оз</string>
+            <key>advise</key>
+            <string>Нет другого такого места, как дом.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>В джазе только девушки</string>
+            <key>advise</key>
+            <string>Ну, никто не совершенен</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Арт Линклеттер</string>
+            <key>advise</key>
+            <string>Если что-то вообще стоит пробовать, это стоит попробовать не меньше 10 раз</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Зигмунд Фрейд</string>
+            <key>advise</key>
+            <string>Быть до конца честным с самим собой — непростая задача.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Брайан Трэйси</string>
+            <key>advise</key>
+            <string>Величайший прорыв в жизни наступает тогда, когда понимаешь, что способен выучить все, что нужно для достижения любой поставленной цели. Это значит — нет предела тому, кем ты можешь стать, что иметь и делать.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Закон Мерфи</string>
+            <key>advise</key>
+            <string>Каждое решение порождает новые проблемы.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Платон</string>
+            <key>advise</key>
+            <string>Каждый король имел среди предков рабов, и каждый раб имел среди предков королей.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Сенека</string>
+            <key>advise</key>
+            <string>Тому, кем владеет гнев, лучше всего повременить с принятием решения.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Уэбстер</string>
+            <key>advise</key>
+            <string>Сохраняй спокойствие, гнев никогда не был аргументом.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Элиот</string>
+            <key>advise</key>
+            <string>Ничто не оправдывает наших ожиданий.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Дизраэли</string>
+            <key>advise</key>
+            <string>Редко происходит то, чего мы ожидаем, в основном случаются неожиданные вещи.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Каули</string>
+            <key>advise</key>
+            <string>Бедному нужна малость, любящему роскошь – многoe, жадному – все.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гораций</string>
+            <key>advise</key>
+            <string>Ничто не может быть красиво со всех точек зрения.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Монтень</string>
+            <key>advise</key>
+            <string>Тверже всего мы верим в то, о чем меньше всего знаем.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франс</string>
+            <key>advise</key>
+            <string>Человеку свойственно рассуждать мудро, а поступать глупо.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фромм</string>
+            <key>advise</key>
+            <string>Богат не тот, кто много имеет, а тот, кто много дает.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бичер</string>
+            <key>advise</key>
+            <string>Каждый акт благотворительности есть ступенька на пути к небесам.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Эразм</string>
+            <key>advise</key>
+            <string>В стране слепых одноглазый – король.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Свифт</string>
+            <key>advise</key>
+            <string>Нет человека более слепого, чем тот, кто не хочет видеть.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Драйден</string>
+            <key>advise</key>
+            <string>Фортуна дружит с отважными.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Смоллетт</string>
+            <key>advise</key>
+            <string>Тот, кто отваживается на смелые поступки, порой рискует упасть.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Роджерс</string>
+            <key>advise</key>
+            <string>Мы не можем все быть героями, потому что должен же кто-то сидеть на тротуаре и хлопать в ладоши, когда герои проходят мимо.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Плиний Старший</string>
+            <key>advise</key>
+            <string>В этой жизни определенно только то, что нет ничего определенного.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>He всякая перемена означает рост, не всякое движение направлено вперед.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Торье</string>
+            <key>advise</key>
+            <string>Мир не меняется, меняемся мы.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Голсуорси</string>
+            <key>advise</key>
+            <string>Нет ничего более трагичного в жизни, чем абсолютная невозможность изменить то, что Вы уже сделали.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бэкон</string>
+            <key>advise</key>
+            <string>Кто не применяет новых средств, должен ждать новых бед.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Келлер</string>
+            <key>advise</key>
+            <string>Смотри всегда на солнце и ты не увидишь тени.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Холланд</string>
+            <key>advise</key>
+            <string>Поделившись своей радостью, Вы приумножите ее.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Пиндар</string>
+            <key>advise</key>
+            <string>Лучший целитель – доброе веселье.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джонсон, Сэмюэль</string>
+            <key>advise</key>
+            <string>Жизнь в обществе не возможна без взаимных уступок.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франклин</string>
+            <key>advise</key>
+            <string>Для недовольного человека любое кресло неудобно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гете</string>
+            <key>advise</key>
+            <string>Трус угрожает тогда, когда сам в безопасности.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шоу</string>
+            <key>advise</key>
+            <string>В этом мире всегда есть опасность для тех, кто ее боится.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джордж</string>
+            <key>advise</key>
+            <string>Самое опасное, что можно сделать в этом мире – попытаться перепрыгнуть пропасть в два прыжка.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Неру</string>
+            <key>advise</key>
+            <string>Человек, убегающий от опасности, подвергается ей больше, чем тот, кто спокойно сидит на месте.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шекспир</string>
+            <key>advise</key>
+            <string>Трусы умирают много раз, прежде чем умереть совсем.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Лучший способ оказаться обманутым – посчитать себя хитрее других.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Неизвестный автор</string>
+            <key>advise</key>
+            <string>Самый худший обман – обман самого себя.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джемс</string>
+            <key>advise</key>
+            <string>Нет худшей лжи, чем неправильно понятая правда.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Филлипс</string>
+            <key>advise</key>
+            <string>Что есть поражение? Не что иное, как урок, не что иное, как первый шаг к чему-то лучшему.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Спиноза</string>
+            <key>advise</key>
+            <string>Желание – есть суть человека.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Наши желания всегда приносят нам разочарование, ибо даже если мы чем-то удовлетворены, полученное никогда не оправдывает наших ожиданий.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Монтень</string>
+            <key>advise</key>
+            <string>В некоторых поражениях больше триумфа, чем в победах.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шоу</string>
+            <key>advise</key>
+            <string>В жизни бывают две трагедии. Одна – когда Вы не можете получить того, о чем мечтаете, вторая – когда Вы получаете это.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Если нам удается отказаться от наших желаний, значит не мы сильны, а они слабы.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Черчилль</string>
+            <key>advise</key>
+            <string>У нас много желаний, и очень часто одно исключает другое.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Наше желание выглядеть естественными больше всего мешает нам быть таковыми.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гете</string>
+            <key>advise</key>
+            <string>Во всех случаях лучше надеяться, чем отчаиваться.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гете</string>
+            <key>advise</key>
+            <string>Главные трудности возникают там, где мы их не ждем.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ченнинг</string>
+            <key>advise</key>
+            <string>Трудности должны будоражить, а не обескураживать.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Сенека</string>
+            <key>advise</key>
+            <string>Трудности так же закаляют ум, как труд – тело.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Киплинг</string>
+            <key>advise</key>
+            <string>Создавай проблемы для себя, если это в твоем характере, но не надо их создавать для окружающих.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Сантаяна</string>
+            <key>advise</key>
+            <string>Трудное – это то, что можно сделать сразу, невозможное – то, на что потребуется некоторое время.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Наполеон</string>
+            <key>advise</key>
+            <string>Невозможность – слово из словаря глупцов.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Скотт</string>
+            <key>advise</key>
+            <string>Для робких и колеблющихся все невозможно, потому что все им таким кажется.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Годдард</string>
+            <key>advise</key>
+            <string>Трудно сказать, что есть невозможное, поскольку вчерашняя мечта становится надеждой дня сегодняшнего и реальностью дня завтрашнего.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Берман</string>
+            <key>advise</key>
+            <string>Удивительное изобретение – психоанализ. Самые примитивные люди начинают думать, что они сложные натуры.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Холмс</string>
+            <key>advise</key>
+            <string>Подвергать сомнению свои жизненные прин- ципы – признак цивилизованности человека.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франклин</string>
+            <key>advise</key>
+            <string>Кот в перчатках мышей не ловит.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Эмерсон</string>
+            <key>advise</key>
+            <string>Все великое было достигнуто энтузиастами.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Лонгфелло</string>
+            <key>advise</key>
+            <string>Мир любит привкус зла.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Милль</string>
+            <key>advise</key>
+            <string>Человек может причинить зло окружающим не только своими поступками, но и своим бездействием.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Кестлер</string>
+            <key>advise</key>
+            <string>Нет ничего печальнее смерти иллюзии.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Конрад</string>
+            <key>advise</key>
+            <string>Если человек не верит в удачу, у него небогатый жизненный опыт.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Неру</string>
+            <key>advise</key>
+            <string>Факты есть факты, и по Вашему желанию никуда не исчезнут.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хаббард, Кин</string>
+            <key>advise</key>
+            <string>Масса людей путают плохое ведение дел и предначертания судьбы.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франклин</string>
+            <key>advise</key>
+            <string>Тот, кто дожидается удачи, никогда не знает, будет ли он сегодня ужинать.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Лоуэлл</string>
+            <key>advise</key>
+            <string>Бессмысленно спорить с неизбежным</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Плутарх</string>
+            <key>advise</key>
+            <string>Найти ошибку легко, трудности могут начаться, когда попытаешься ее исправить.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Деккер</string>
+            <key>advise</key>
+            <string>Золотая маска скрывает все недостатки.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Рузвельт, Элеонор</string>
+            <key>advise</key>
+            <string>Вы сможете справиться с любой ситуацией, если поборете свои страхи и продолжите Ваше дело.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шиллер</string>
+            <key>advise</key>
+            <string>Будь верен мечтам своей юности</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Симпсон</string>
+            <key>advise</key>
+            <string>Сынок, если ты действительно что-то хочешь в этой жизни, ты должен работать над этим. А теперь тихо! Сейчас будут объявлять лотерейные билетики</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Симпсон</string>
+            <key>advise</key>
+            <string>Просто выбери тупик и не напрягайся до конца жизни.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Симпсон</string>
+            <key>advise</key>
+            <string>И когда же я, наконец, пойму, что ответы на жизненные вопросы находятся не на дне бутылки. Они в телевизоре!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Симпсон</string>
+            <key>advise</key>
+            <string>Всю свою жизнь я лелеял лишь одну мечту- достигнуть моих многих целей.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Цицерон</string>
+            <key>advise</key>
+            <string>Нет лучшего места на земле, чем родной дом.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Болдуин</string>
+            <key>advise</key>
+            <string>Достижение идеала часто приводит к прощанию с иллюзиями.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Афоня</string>
+            <key>advise</key>
+            <string>Чувствуйте себя как дома! Да не забывайте, что в гостях!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Афоня</string>
+            <key>advise</key>
+            <string>Как говорил один мой знакомый… покойник… «Я слишком много знал»</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бриллиантовая рука</string>
+            <key>advise</key>
+            <string>Дичь не улетит, она жареная!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бриллиантовая рука</string>
+            <key>advise</key>
+            <string>За чужой счет пьют даже язвенники и трезвенники!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бриллиантовая рука</string>
+            <key>advise</key>
+            <string>За чужой счет пьют даже язвенники и трезвенники!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ильф и Петров "12 стульев"</string>
+            <key>advise</key>
+            <string>Согласие есть продукт при полном непротивлении сторон.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ильф и Петров "12 стульев"</string>
+            <key>advise</key>
+            <string>Не делайте из еды культа</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Карнавальная ночь</string>
+            <key>advise</key>
+            <string>Видим одну звездочку, две звездочки… Лучше, конечно, пять звездочек!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бриллиантовая рука</string>
+            <key>advise</key>
+            <string>Куй железо, не отходя от кассы.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>12 стульев</string>
+            <key>advise</key>
+            <string>Мы с Вами чужие на этом празднике жизни</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джентльмены удачи</string>
+            <key>advise</key>
+            <string>Всё. Кина не будет... Электричество кончилось.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джентльмены удачи</string>
+            <key>advise</key>
+            <string>Это тебе не мелочь по карманам тырить…</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Асса</string>
+            <key>advise</key>
+            <string>Дикость. Как, впрочем, и любой компромисс.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Асса</string>
+            <key>advise</key>
+            <string>Сегодня он подпишет все, что мы захотим. А завтра мы будем болтаться в петлях.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Служебный роман</string>
+            <key>advise</key>
+            <string>Как всем известно, труд облагораживает человека. И поэтому люди с удовольствием ходят на работу.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Служебный роман</string>
+            <key>advise</key>
+            <string>А земной шар, как известно, вертят именно оптимисты.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Служебный роман</string>
+            <key>advise</key>
+            <string>Новый начальник начинает с ремонта своего собственного кабинета.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Чародеи</string>
+            <key>advise</key>
+            <string>Главное, чтобы костюмчик сидел!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Чародеи</string>
+            <key>advise</key>
+            <string>К сожалению, в жизни дураки глупее, чем в сказках.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Жить надо так, чтобы тебя помнили и сволочи.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Очень тяжело быть гением среди козявок.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Когда у попрыгуньи болят ноги, она прыгает сидя.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Встречается такая любовь, что лучше ее сразу заменить расстрелом.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Красивые люди тоже срут.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Лучше быть хорошим человеком, «ругающимся матом», чем тихой, воспитанной тварью.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Самое страшное — это когда человек уже принадлежит не себе, а своему распаду.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаина Раневская</string>
+            <key>advise</key>
+            <string>Среди всяких козявок очень тяжело достичь уровня гения.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Когда-нибудь, но не сейчас</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Вижу цель, не вижу препятствий!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Только не сегодня!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Именно сегодня!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Время пришло!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Может как-нибудь полегче?</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Сильнее давить, и не обращать внимания ни на что…</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Это может быть последний шанс.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Используй все возможности.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Попытка использована. Теперь только в следующий раз</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Становитесь в очередь. Терпение будет уроком.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Это не сказка. Чудеса придется делать самостоятельно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Учись принимать действительность как есть.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Улыбайтесь, люди это любят.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Никто не в праве тебе помешать.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Страх отрезвляет.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Страх не должен быть препятствием.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Мы созданы чтобы творить.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Жизнь коротка, нужно много успеть.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Не нужно гадить в собственном доме.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Жизнь дана чтобы преодолевать препятствия.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Тебе никто не может запретить.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Это твой путь, так иди по нему спокойно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Спокойнее друг, все получится.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>тебя никто не остановит.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Ура, наконец настало время.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Остерегайтесь необдуманных поступков</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Конечно же нет.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Пойди поспи, все наладится</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Утро вечера мудренее</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Ни в коем случае не делайте этого!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Вперед и с песней!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Все познается в сравнении…</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Порой даже простая смена обстановки помогает перенастроить обыденный круговорот мыслей.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Прошлое — это всего лишь история, которую мы из раза в раз напоминаем самим себе</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Заведите новые знакомства. Положительный эффект, который люди могут оказывать друг на друга, неоценим</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Изменения изнутри — изменения и снаружи. Новый цвет волос, прическа, макияж помогут не только преобразиться, но и отразить по-новому грани вашей личности. А сейчас как раз самое время</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Далеко не всё, что случается с нами, несет в себе тайный смысл или урок. Если прошлые воспоминания сдерживают вас и не позволяют двигаться, позвольте себе отпустить и забыть всю боль</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Ищите подходящую компанию среди тех, кто понимает, через что вы проходите. Прочтите их истории, послушайте те выводы, которые они почерпнули, и воспользуйтесь ими в качестве напоминания, что вы в этом не одиноки.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Не поленитесь и займитесь большой генеральной уборкой — безжалостно избавьтесь от всего, чем вы больше не пользуетесь, и наведите порядок там, куда давненько не залезали. Даже мысли выстраиваются логичнее, когда в доме чисто, светло и аккуратно</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Друзья познаются в беде — все об этом знают. Те, кто не оставил вас в сложный жизненный период, предложил руку помощи и остался рядом, — не забывайте об этих людях и цените их</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Новые знания расширяют наши возможности — увеличивая свой кругозор, вы напомните себе, что всегда есть чему научиться. И кто знает — возможно, вы откроете в себе новые таланты</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Сложно держать жизнь под контролем, если это не удается сделать даже с финансами. Пересмотрите свои привычки, составьте бюджет — сбалансированные траты обязательно добавят немного уверенности и стабильности в вашу жизнь</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Возможно, самым важным шагом на пути к восстановлению контроля над своей жизнью станет решение уйти прочь от ситуации, которая сдерживала вас. Требуется храбрость, чтобы оставить позади то, что когда-то занимало важное место в жизни. Однако такой поступок предоставит невероятную возможность начать что-то новое</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Ограничить общение с неприятными вам людьми!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Срочно необходимо отказаться от одной вредной привычки на 100 дней.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Ничто так не прибавляет уверенности, как преодоление собственных страхов. Сделайте осознанный вызов тому, что давно пугает вас, — хотя со временем это может показаться смешным, такая маленькая победа вдохновит вас куда больше, чем вы можете себе представить</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Простить окружающих. Простить Вселенную. Простить себя!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор неизвестен</string>
+            <key>advise</key>
+            <string>Не пытайся свершить что-либо, если ты не уверен в себе, но и не отказывайся от дела только из-за того, что кто-то другой не уверен в тебе.</string>
+        </dict>
+    </ru>
+    <uk>
+        <dict>
+            <key>avtor</key>
+            <string>A Few Good Men</string>
+            <key>advise</key>
+            <string>Правда тобі не по зубах!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>професор Дамблдор</string>
+            <key>advise</key>
+            <string>Ми всі повинні встати перед вибором між правильним і легким</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>професор Дамблдор</string>
+            <key>advise</key>
+            <string>Чим більша тобі дорого, тим більше ти можеш втратити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Аполлон 13</string>
+            <key>advise</key>
+            <string>Х'юстон, у нас проблема.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Біллінгс</string>
+            <key>advise</key>
+            <string>Кожен хоче жити довго, але ніхто не хоче старіти.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хоробре серце</string>
+            <key>advise</key>
+            <string>Вони можуть забрати в нас життя, але вони ніколи не віднімуть у нас ... СВОБОДУ!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Касабланка</string>
+            <key>advise</key>
+            <string>Я думаю, що це початок красивою дружби</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Брудні танці</string>
+            <key>advise</key>
+            <string>Ніхто не ставить дитину в кут</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Форрест Гамп</string>
+            <key>advise</key>
+            <string>Моя мама завжди казала, що життя як коробка цукерок. Ніколи не знаєш, яку отримаєш.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Віднесені вітром</string>
+            <key>advise</key>
+            <string>Якщо чесно, дорога, мені наплювати</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Зоряні війни</string>
+            <key>advise</key>
+            <string>Хай буде з тобою Сила.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>раптовий удар</string>
+            <key>advise</key>
+            <string>Давай, зроби мій день</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Темний лицар</string>
+            <key>advise</key>
+            <string>Че так серйозно?</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хоббит: Нежданное путешествие</string>
+            <key>advise</key>
+            <string>Всяку хорошу історію не гріх і прикрасити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хоббит: Нежданное путешествие</string>
+            <key>advise</key>
+            <string>Будинок тепер позаду тебе. Світ - попереду.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ти не пройдеш!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Матрица</string>
+            <key>advise</key>
+            <string>Час завжди проти нас.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Матрица</string>
+            <key>advise</key>
+            <string>Звільни свій розум</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Матрица</string>
+            <key>advise</key>
+            <string>Знати шлях і йти по ньому - не одне і те ж.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Чарівник країни Оз</string>
+            <key>advise</key>
+            <string>У мене таке відчуття, що ми вже не в Канзасі</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Чарівник країни Оз</string>
+            <key>advise</key>
+            <string>Немає іншого такого місця, як будинок.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>У джазі тільки дівчата</string>
+            <key>advise</key>
+            <string>Ну, ніхто не досконалий</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Арт Лінклеттер</string>
+            <key>advise</key>
+            <string>Якщо щось взагалі варто пробувати, це варто спробувати не менш 10 раз</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Зигмунд Фрейд</string>
+            <key>advise</key>
+            <string>Бути до кінця чесним із самим собою - непросте завдання.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Брайан Трейси</string>
+            <key>advise</key>
+            <string>Найвеличніший прорив в житті настає тоді, коли розумієш, що здатний вивчити все, що потрібно для досягнення будь-якої поставленої мети. Це означає - немає межі того, ким ти можеш стати, що мати і робити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Закон Мерфі</string>
+            <key>advise</key>
+            <string>Кожне рішення породжує нові проблеми.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Платон</string>
+            <key>advise</key>
+            <string>Кожен король мав серед предків рабів, і кожен раб мав серед предків королів.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Сенека</string>
+            <key>advise</key>
+            <string>Тому, ким володіє гнів, найкраще почекати з ухваленням рішення.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Уебстер</string>
+            <key>advise</key>
+            <string>Зберігай спокій, гнів ніколи не був аргументом.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Еліот</string>
+            <key>advise</key>
+            <string>Ніщо не виправдовує наших очікувань.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Дізраелі</string>
+            <key>advise</key>
+            <string>Рідко відбувається те, чого ми очікуємо, в основному трапляються несподівані речі.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Каули</string>
+            <key>advise</key>
+            <string>Бідному потрібна малість, люблячому розкіш - многoe, жадібному - все.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Горацій</string>
+            <key>advise</key>
+            <string>Ніщо не може бути красиво з усіх точок зору.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Монтень</string>
+            <key>advise</key>
+            <string>Твердіше всього ми віримо в те, про що найменше знаємо.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франс</string>
+            <key>advise</key>
+            <string>Людині властиво міркувати мудро, а надходити нерозумно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фромм</string>
+            <key>advise</key>
+            <string>Багатий не той, хто багато має, а той, хто багато дає.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бічер</string>
+            <key>advise</key>
+            <string>Кожен акт благодійності є сходинка на шляху до небес.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Еразм</string>
+            <key>advise</key>
+            <string>У країні сліпих одноокий - король.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Свіфт</string>
+            <key>advise</key>
+            <string>Немає людини більш сліпого, ніж той, хто не хоче бачити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Драйден</string>
+            <key>advise</key>
+            <string>Фортуна дружить з відважними.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Смоллетт</string>
+            <key>advise</key>
+            <string>Той, хто наважується на сміливі вчинки, часом ризикує впасти.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Роджерс</string>
+            <key>advise</key>
+            <string>Ми не можемо все бути героями, тому що повинен же хтось сидіти на тротуарі і плескати в долоні, коли герої проходять мимо.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Пліній Старший</string>
+            <key>advise</key>
+            <string>У цьому житті виразно тільки те, що немає нічого певного.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Тор'є</string>
+            <key>advise</key>
+            <string>He всяка зміна означає зростання, не всяке рух спрямований вперед.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Тор'є</string>
+            <key>advise</key>
+            <string>Світ не змінюється, змінюємося ми.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Голсуорсі</string>
+            <key>advise</key>
+            <string>Немає нічого більш трагічного в житті, ніж абсолютна неможливість змінити те, що Ви вже зробили.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Бекон</string>
+            <key>advise</key>
+            <string>Хто не застосовує нових засобів, повинен чекати нових бід.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Келлер</string>
+            <key>advise</key>
+            <string>Дивись завжди на сонці і ти не побачиш тіні.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Холланд</string>
+            <key>advise</key>
+            <string>Поділившись своєю радістю, Ви примножите її.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Піндар</string>
+            <key>advise</key>
+            <string>Кращий цілитель - добру веселощі.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джонсон, Семюель</string>
+            <key>advise</key>
+            <string>Життя в суспільстві не можлива без взаємних поступок.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франклін</string>
+            <key>advise</key>
+            <string>Для незадоволеного людини будь-яке крісло незручно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гете</string>
+            <key>advise</key>
+            <string>Боягуз загрожує тоді, коли сам в безпеці.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шоу</string>
+            <key>advise</key>
+            <string>У цьому світі завжди є небезпека для тих, хто її боїться.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джордж</string>
+            <key>advise</key>
+            <string>Найнебезпечніше, що можна зробити в цьому світі - спробувати перестрибнути прірву в два стрибки.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Неру</string>
+            <key>advise</key>
+            <string>Людина, убегающий від небезпеки, піддається їй більше, ніж той, хто спокійно сидить на місці.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шекспір</string>
+            <key>advise</key>
+            <string>Труси вмирають багато разів, перш ніж померти зовсім.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Кращий спосіб бути обдуреним - порахувати себе хитріше інших.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Невідомий автор</string>
+            <key>advise</key>
+            <string>Найгірший обман - обман самого себе.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джемс</string>
+            <key>advise</key>
+            <string>Немає гіршої брехні, ніж неправильно зрозуміла правда.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Філліпс</string>
+            <key>advise</key>
+            <string>Що є поразку? Не що інше, як урок, не що інше, як перший крок до чогось кращого.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Спіноза</string>
+            <key>advise</key>
+            <string>Бажання - є суть людини.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Наші бажання завжди приносять нам розчарування, бо навіть якщо ми чимось задоволені, отримане ніколи не виправдовує наших очікувань.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Монтень</string>
+            <key>advise</key>
+            <string>У деяких ураженнях більше тріумфу, ніж в перемогах.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шоу</string>
+            <key>advise</key>
+            <string>У житті бувають дві трагедії. Одна - коли Ви не можете отримати того, про що мрієте, друга - коли Ви отримуєте це.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Якщо нам вдається відмовитися від наших бажань, значить не ми сильні, а вони слабкі.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Черчілль</string>
+            <key>advise</key>
+            <string>У нас багато бажань, і дуже часто одне виключає інше.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ларошфуко</string>
+            <key>advise</key>
+            <string>Наше бажання виглядати природними найбільше заважає нам бути такими.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гете</string>
+            <key>advise</key>
+            <string>У всіх випадках краще сподіватися, ніж впадати у відчай.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гете</string>
+            <key>advise</key>
+            <string>Головні труднощі виникають там, де ми їх не чекаємо.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Ченнінг</string>
+            <key>advise</key>
+            <string>Труднощі повинні розбурхувати, а не бентежити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Сенека</string>
+            <key>advise</key>
+            <string>Труднощі так само загартовують розум, як праця - тіло.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Кіплінг</string>
+            <key>advise</key>
+            <string>Створюй проблеми для себе, якщо це в твоєму характері, але не треба їх створювати для оточуючих.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Сантаяна</string>
+            <key>advise</key>
+            <string>Важке - це те, що можна зробити відразу, неможливе - те, на що буде потрібно якийсь час.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Наполеон</string>
+            <key>advise</key>
+            <string>Неможливість - слово зі словника дурнів.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Скотт</string>
+            <key>advise</key>
+            <string>Для боязких і нерішучих все неможливо, тому що всі їм таким здається.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Годдард</string>
+            <key>advise</key>
+            <string>Важко сказати, що є неможливе, оскільки вчорашня мрія стає надією дня сьогоднішнього і реальністю дня завтрашнього.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Берман</string>
+            <key>advise</key>
+            <string>Дивний винахід - психоаналіз. Найпримітивніші люди починають думати, що вони складні натури.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Холмс</string>
+            <key>advise</key>
+            <string>Піддавати сумніву свої життєві прин- ціпи - ознака цивілізованості людини.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франклін</string>
+            <key>advise</key>
+            <string>Кіт у рукавичках мишей не ловить.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Емерсон</string>
+            <key>advise</key>
+            <string>Усе велике було досягнуто ентузіастами.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Лонгфелло</string>
+            <key>advise</key>
+            <string>Світ любить присмак зла.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Мілль</string>
+            <key>advise</key>
+            <string>Людина може заподіяти зло оточуючим не тільки своїми вчинками, а й своєю бездіяльністю.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Кестлер</string>
+            <key>advise</key>
+            <string>Немає нічого сумніше смерті ілюзії.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Конрад</string>
+            <key>advise</key>
+            <string>Якщо людина не вірить в успіх, у нього небагатий життєвий досвід.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Неру</string>
+            <key>advise</key>
+            <string>Факти є факти, і за Вашим бажанням нікуди не зникнуть.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Хаббард, Кін</string>
+            <key>advise</key>
+            <string>Маса людей плутають погане ведення справ і приречення долі.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Франклін</string>
+            <key>advise</key>
+            <string>Той, хто чекає удачі, ніколи не знає, чи буде він сьогодні вечеряти.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Лоуелл</string>
+            <key>advise</key>
+            <string>Безглуздо сперечатися з неминучим</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Плутарх</string>
+            <key>advise</key>
+            <string>Знайти помилку легко, труднощі можуть початися, коли спробуєш її виправити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Деккер</string>
+            <key>advise</key>
+            <string>Золота маска приховує всі недоліки.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Рузвельт, Елеонор</string>
+            <key>advise</key>
+            <string>Ви зможете впоратися з будь-якою ситуацією, якщо поборете свої страхи і продовжите Вашу справу.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Шиллер</string>
+            <key>advise</key>
+            <string>Будь вірний мріям своєї юності</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Сімпсон</string>
+            <key>advise</key>
+            <string>Синку, якщо ти дійсно щось хочеш в цьому житті, ти повинен працювати над цим. А тепер тихо! Зараз оголошуватимуть лотерейні квиточки</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Сімпсон</string>
+            <key>advise</key>
+            <string>Просто вибери тупик і не напружуйся до кінця життя.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Сімпсон</string>
+            <key>advise</key>
+            <string>І коли ж я, нарешті, зрозумію, що відповіді на життєві питання знаходяться не на дні пляшки. Вони в телевізорі!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Гомер Сімпсон</string>
+            <key>advise</key>
+            <string>Все своє життя я плекав лише одну мечту- досягти моїх багатьох цілей.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Цицерон</string>
+            <key>advise</key>
+            <string>Немає кращого місця на землі, ніж рідний дім.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Болдуін</string>
+            <key>advise</key>
+            <string>Досягнення ідеалу часто призводить до прощання з ілюзіями.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Афоня</string>
+            <key>advise</key>
+            <string>Почувайтесь як удома! Та не забувайте, що в гостях!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Діамантова рука</string>
+            <key>advise</key>
+            <string>Як казав один мій знайомий ... небіжчик ... «Я занадто багато знав»</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Діамантова рука</string>
+            <key>advise</key>
+            <string>Дичина не полетять, вона смажена!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Діамантова рука</string>
+            <key>advise</key>
+            <string>За чужий рахунок п'ють навіть язвенники і непитущі!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>12 стільців</string>
+            <key>advise</key>
+            <string>Згода є продукт при повному непротивлення сторін.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>12 стільців</string>
+            <key>advise</key>
+            <string>Не робіть з їжі культу</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Карнавальна ніч</string>
+            <key>advise</key>
+            <string>Бачимо одну зірочку, дві зірочки ... Краще, звичайно, п'ять зірочок!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Діамантова рука</string>
+            <key>advise</key>
+            <string>Куй залізо, не відходячи від каси.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>12 стільців</string>
+            <key>advise</key>
+            <string>Ми з Вами чужі на цьому святі життя</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джентльмени удачі</string>
+            <key>advise</key>
+            <string>Всі. Кіна не буде ... Електрика скінчилося.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Джентльмени удачі</string>
+            <key>advise</key>
+            <string>Це тобі не дріб'язок по кишенях тирити ...</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Асса</string>
+            <key>advise</key>
+            <string>Дикість. Як, втім, і будь-який компроміс.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Асса</string>
+            <key>advise</key>
+            <string>Сьогодні він підпише все, що ми захочемо. А завтра ми будемо бовтатися в петлях.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Службовий роман</string>
+            <key>advise</key>
+            <string>Як всім відомо, праця облагороджує людину. І тому люди із задоволенням ходять на роботу.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Службовий роман</string>
+            <key>advise</key>
+            <string>А земну кулю, як відомо, вертять саме оптимісти.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Службовий роман</string>
+            <key>advise</key>
+            <string>Новий начальник починає з ремонту свого власного кабінету.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Чародії</string>
+            <key>advise</key>
+            <string>Головне, щоб костюмчик сидів!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Чародії</string>
+            <key>advise</key>
+            <string>На жаль, в житті дурні дурніші, ніж в казках.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Жити треба так, щоб тебе пам'ятали і сволочі.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Дуже важко бути генієм серед козявок.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Коли у стрибухи болять ноги, вона стрибає сидячи.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Зустрічається така любов, що краще її відразу замінити розстрілом.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Красиві люди теж срут.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Краще бути гарною людиною, «лається матом», ніж тихою, вихованою тварюкою.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Найстрашніше - це коли людина вже належить не собі, а своєму розпаду.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Фаїна Раневська</string>
+            <key>advise</key>
+            <string>Серед всяких комашок дуже важко досягти рівня генія.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Коли-небудь, але не зараз</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Бачу ціль не бачу перешкод!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Тільки не сьогодні!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Саме сьогодні!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Час прийшов!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Може як-небудь легше?</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Сильніше тиснути, і не звертати уваги ні на що ...</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Це може бути останній шанс.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Використовуй всі можливості.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Спроба використана. Тепер тільки наступного разу</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ставайте в чергу. Терпіння буде уроком.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Це не казка. Чудеса доведеться робити самостійно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Вчися приймати дійсність як є.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Посміхайтеся, люди це люблять.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ніхто не в праві тобі перешкодити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Страх протвережує.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Страх не повинен бути перешкодою.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ми створені щоб творити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Життя коротке, потрібно багато встигнути.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Не потрібно смітити у власному домі.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Життя дане щоб долати перешкоди.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Тобі ніхто не може заборонити.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Це твій шлях, так йди по ньому спокійно.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Спокійніше друг, все вийде.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>тебе ніхто не зупинить.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ура, нарешті настав час.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Остерігайтеся необдуманих вчинків</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Звичайно ж ні.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Піди поспи, все налагодиться</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ранок вечора мудріший</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ні в якому разі не робіть цього!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Вперед з піснею!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Все пізнається в порівнянні…</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Часом навіть проста зміна обстановки допоможе переналаштувати буденний круговорот думок.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Минуле - це всього лише історія, яку ми з разу в раз нагадуємо самим собі</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Заведіть нові знайомства. Позитивний ефект, який люди можуть надавати один на одного, неоціненний</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Зміни зсередини - зміни і зовні. Новий колір волосся, зачіска, макіяж допоможуть не тільки перетворитися, але і відобразити по-новому грані вашої особистості. А зараз саме час</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Далеко не все, що трапляється з нами, несе в собі таємний сенс або урок. Якщо минулі спогади стримують вас і не дозволяють рухатися, дозвольте собі відпустити і забути весь біль</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Шукайте відповідну компанію серед тих, хто розуміє, через що ви проходите. Прочитайте їх історії, послухайте ті висновки, які вони почерпнули, і скористайтеся ними як нагадування, що ви в цьому не самотні.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Не полінуйтеся і займіться великий генеральним прибиранням - безжально позбудьтеся від усього, чим ви більше не користуєтеся, і наведіть порядок там, куди давненько не залазили. Навіть думки вибудовуються логічніше, коли в будинку чисто, світло і акуратно</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Друзі пізнаються в біді - всі про це знають. Ті, хто не залишив вас в складний життєвий період, запропонував руку допомоги і залишився поруч, - не забувайте про цих людей і цінуєте їх</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Нові знання розширюють наші можливості - збільшуючи свій кругозір, ви нагадаєте собі, що завжди є чому навчитися. І хто знає - можливо, ви відкриєте в собі нові таланти</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Складно тримати життя під контролем, якщо це не вдається зробити навіть з фінансами. Перегляньте свої звички, складіть бюджет - збалансовані витрати обов'язково додадуть трохи впевненості і стабільності у ваше життя</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Можливо, найважливішим кроком на шляху до відновлення контролю над своїм життям стане рішення піти геть від ситуації, яка стримувала вас. Потрібно хоробрість, щоб залишити позаду те, що колись займало важливе місце в житті. Однак такий вчинок надасть неймовірну можливість почати щось нове</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Обмежити спілкування з неприємними вам людьми!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Терміново необхідно відмовитися від однієї шкідливої звички на 100 днів.</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Ніщо так не додає впевненості, як подолання власних страхів. Зробіть усвідомлений виклик тому, що давно лякає вас, - хоча з часом це може здатися смішним, така маленька перемога надихне вас куди більше, ніж ви можете собі уявити</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Пробачити оточуючих. Пробачити Всесвіт. Пробачити себе!</string>
+        </dict>
+        <dict>
+            <key>avtor</key>
+            <string>Автор невідомий</string>
+            <key>advise</key>
+            <string>Не намагайся звершити що-небудь, якщо ти не впевнений у собі, але й не відмовляйся від справи тільки через те, що хтось інший не впевнений у тобі.</string>
+        </dict>
+    </uk>
+</advices>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/adviceFragmentRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/adviceHeaderTextView"
+        style="@style/AdviceHeaderTextView"
+        android:text="@string/tip" />
+
+    <ImageView
+        android:id="@+id/startButton"
+        style="@style/InteractiveReturnImageView" />
+
+    <ImageView
+        android:id="@+id/circlesImageView"
+        style="@style/SmallCirclesImageView"
+        android:layout_alignBottom="@+id/adviceHeaderTextView"
+        android:layout_alignTop="@+id/adviceHeaderTextView"
+        android:layout_toLeftOf="@+id/adviceHeaderTextView"
+        android:layout_toStartOf="@+id/adviceHeaderTextView" />
+
+    <ImageView
+        android:id="@+id/lampImageView"
+        style="@style/LightLampImageView"
+        android:layout_below="@+id/adviceHeaderTextView" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lampImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/advice_container_margin"
+        android:background="@drawable/corners">
+
+        <TextView
+            android:id="@+id/adviceText"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/advice_text_margin"
+            android:gravity="center"
+            android:textSize="@dimen/text_size_middle" />
+
+        <TextView
+            android:id="@+id/adviceAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@id/adviceText"
+            android:layout_margin="@dimen/advice_author_margin"
+            android:layout_toLeftOf="@+id/adviceStarImage"
+            android:layout_toStartOf="@+id/adviceStarImage"
+            android:gravity="start" />
+
+        <ImageView
+            android:id="@+id/adviceStarImage"
+            style="@style/StarImageView"
+            android:layout_below="@+id/adviceText"
+            android:background="@drawable/star" />
+    </RelativeLayout>
+
+</RelativeLayout>

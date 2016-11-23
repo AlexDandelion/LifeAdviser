@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/dayAdviceFragmentRelativeLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/dayAdviceHeaderTextView"
+        style="@style/AdviceHeaderTextView"
+        android:text="@string/tip_of_the_day" />
+
+    <ImageView
+        android:id="@+id/startButton"
+        style="@style/InteractiveReturnImageView" />
+
+    <ImageView
+        android:id="@+id/circlesImageView"
+        style="@style/SmallCirclesImageView"
+        android:layout_alignBottom="@+id/dayAdviceHeaderTextView"
+        android:layout_alignTop="@+id/dayAdviceHeaderTextView"
+        android:layout_toLeftOf="@+id/dayAdviceHeaderTextView"
+        android:layout_toStartOf="@+id/dayAdviceHeaderTextView" />
+
+    <ImageView
+        android:id="@+id/lampImageView"
+        style="@style/LightLampImageView"
+        android:layout_below="@+id/dayAdviceHeaderTextView" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/lampImageView"
+        android:layout_centerHorizontal="true"
+        android:layout_margin="@dimen/advice_container_margin"
+        android:background="@drawable/corners">
+
+        <TextView
+            android:id="@+id/dayAdvice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentTop="true"
+            android:layout_margin="@dimen/advice_text_margin"
+            android:gravity="center"
+            android:textSize="@dimen/text_size_middle" />
+
+        <TextView
+            android:id="@+id/dayAdviceAuthor"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true"
+            android:layout_below="@id/dayAdvice"
+            android:layout_margin="@dimen/advice_author_margin"
+            android:layout_toLeftOf="@+id/dayAdviceStarImage"
+            android:layout_toStartOf="@+id/dayAdviceStarImage"
+            android:gravity="start" />
+
+        <ImageView
+            android:id="@+id/dayAdviceStarImage"
+            style="@style/StarImageView"
+            android:layout_below="@+id/dayAdvice"
+            android:background="@drawable/star" />
+    </RelativeLayout>
+
+</RelativeLayout>
